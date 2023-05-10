@@ -84,6 +84,22 @@
       "groups": {
         "BrockenTime’s Piracy": "/proxy/api/imgur/chapter/P7gmvYS"
       }
+    },
+    "23": {
+      "title": "The Woman of My Dreams",
+      "volume": "6",
+      "last_updated": "1683755203",
+      "groups": {
+        "Okafour": "/proxy/api/imgur/chapter/1d8wGH6"
+      }
+    },
+    "24": {
+      "title": "The Queen’s Magic",
+      "volume": "6",
+      "last_updated": "1683755268",
+      "groups": {
+        "Okafour": "/proxy/api/imgur/chapter/Ro1IgGr"
+      }
     }
   }
 }
