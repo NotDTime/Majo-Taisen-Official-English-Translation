@@ -90,7 +90,7 @@
       "volume": "6",
       "last_updated": "1683755203",
       "groups": {
-        "Okafour": "/proxy/api/imgur/chapter/1d8wGH6"
+        "Taisen Scans": "/proxy/api/imgur/chapter/1d8wGH6"
       }
     },
     "24": {
@@ -98,7 +98,55 @@
       "volume": "6",
       "last_updated": "1683755268",
       "groups": {
-        "Okafour": "/proxy/api/imgur/chapter/Ro1IgGr"
+        "Taisen Scans": "/proxy/api/imgur/chapter/Ro1IgGr"
+      }
+    },
+    "25": {
+      "title": "The Heart of Marie Antoinette ",
+      "volume": "6",
+      "last_updated": "1683775570",
+      "groups": {
+        "Taisen Scans": "/proxy/api/imgur/chapter/wRK5qrY"
+      }
+    },
+    "26": {
+      "title": "The Greatest Brain of All Time ",
+      "volume": "6",
+      "last_updated": "1683775594",
+      "groups": {
+        "Taisen Scans": "/proxy/api/imgur/chapter/VGi0G2A"
+      }
+    },
+    "27": {
+      "title": "The Power of Knowledge ",
+      "volume": "6",
+      "last_updated": "1683775661",
+      "groups": {
+        "Taisen Scans": "/proxy/api/imgur/chapter/cS18jDc"
+      }
+    },
+    "28": {
+      "title": "The Knowledge of Huang Yueying",
+      "volume": "6",
+      "last_updated": "1683775758",
+      "groups": {
+        "Taisen Scans": "/proxy/api/imgur/chapter/EXvGDJN"
+      }
+    },
+    "29": {
+      "title": "Possibilities and Truth",
+      "volume": "6",
+      "last_updated": "1683775813",
+      "groups": {
+        "Taisen Scans": "/proxy/api/imgur/chapter/HthYMUa"
+      }
+    },
+    "30": {
+      "title": "Human Potential",
+      "volume": "6",
+      "last_updated": "1683775849",
+      "groups": {
+        "Taisen Scans": "/proxy/api/imgur/chapter/is5lgpw"
       }
     }
   }
