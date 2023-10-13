@@ -5,9 +5,25 @@
   "author": "Kawamoto Homura",
   "cover": "https://i.imgur.com/4W3mxFf.jpg",
   "chapters": {
+    "5": {
+      "title": "5",
+      "volume": "7",
+      "last_updated": "1697166825",
+      "groups": {
+        "Taisen Scans": "/proxy/api/imgur/chapter/A1jS6I1"
+      }
+    },
+    "6": {
+      "title": "Greed And A Wish",
+      "volume": "3",
+      "last_updated": "1697166511",
+      "groups": {
+        "Pig Assault": "/proxy/api/imgur/chapter/cGM4ZD2"
+      }
+    },
     "7": {
       "title": "The Reason to fight ",
-      "volume": "2",
+      "volume": "3",
       "last_updated": "1696214296",
       "groups": {
         "BrockenTime’s Piracy": "/proxy/api/imgur/chapter/9OceT7W"
@@ -15,7 +31,7 @@
     },
     "8": {
       "title": "Emergence",
-      "volume": "2",
+      "volume": "3",
       "last_updated": "1690344673",
       "groups": {
         "Taisen Scans": "/proxy/api/imgur/chapter/hVeDje2"
@@ -23,7 +39,7 @@
     },
     "9": {
       "title": "Endless Desire",
-      "volume": "2",
+      "volume": "3",
       "last_updated": "1690344585",
       "groups": {
         "Taisen Scans": "/proxy/api/imgur/chapter/cGtDn0V"
@@ -63,7 +79,7 @@
     },
     "14": {
       "title": "Worthy of Love",
-      "volume": "7",
+      "volume": "3",
       "last_updated": "1683075323",
       "groups": {
         "BrockenTime’s Piracy": "/proxy/api/imgur/chapter/rtJgSuN"
@@ -71,7 +87,7 @@
     },
     "15": {
       "title": "Loss",
-      "volume": "7",
+      "volume": "3",
       "last_updated": "1682785198",
       "groups": {
         "BrockenTime’s Piracy": "/proxy/api/imgur/chapter/PeyHF26"
@@ -79,7 +95,7 @@
     },
     "16": {
       "title": "True Love",
-      "volume": "7",
+      "volume": "3",
       "last_updated": "1682727346",
       "groups": {
         "BrockenTime’s Piracy": "/proxy/api/imgur/chapter/NNwIbP7"
@@ -87,7 +103,7 @@
     },
     "17": {
       "title": "Woman of the World",
-      "volume": "7",
+      "volume": "3",
       "last_updated": "1682520329",
       "groups": {
         "BrockenTime’s Piracy": "/proxy/api/imgur/chapter/mwo9UWQ"
@@ -95,7 +111,7 @@
     },
     "18": {
       "title": "Quiet",
-      "volume": "4",
+      "volume": "3",
       "last_updated": "1682516855",
       "groups": {
         "BrockenTime’s Piracy": "/proxy/api/imgur/chapter/IPFXWrQ"
@@ -103,7 +119,7 @@
     },
     "19": {
       "title": "A World of Their Own",
-      "volume": "5",
+      "volume": "3",
       "last_updated": "1682516727",
       "groups": {
         "BrockenTime’s Piracy": "/proxy/api/imgur/chapter/BUj5wKW"
@@ -111,7 +127,7 @@
     },
     "20": {
       "title": "Noble Pride",
-      "volume": "5",
+      "volume": "3",
       "last_updated": "1682516392",
       "groups": {
         "BrockenTime’s Piracy": "/proxy/api/imgur/chapter/inuyUVZ"
@@ -119,7 +135,7 @@
     },
     "21": {
       "title": "The Empress and the Queen",
-      "volume": "5",
+      "volume": "3",
       "last_updated": "1682516269",
       "groups": {
         "BrockenTime’s Piracy": "/proxy/api/imgur/chapter/kNgm1ol"
@@ -127,7 +143,7 @@
     },
     "22": {
       "title": "The Adapter",
-      "volume": "5",
+      "volume": "3",
       "last_updated": "1682516366",
       "groups": {
         "BrockenTime’s Piracy": "/proxy/api/imgur/chapter/P7gmvYS"
@@ -135,7 +151,7 @@
     },
     "23": {
       "title": "My Hero",
-      "volume": "6",
+      "volume": "3",
       "last_updated": "1683755203",
       "groups": {
         "BrockenTime’s Piracy": "/proxy/api/imgur/chapter/n9ZCCKx"
@@ -143,7 +159,7 @@
     },
     "24": {
       "title": "The Queen’s Magic",
-      "volume": "6",
+      "volume": "3",
       "last_updated": "1683755268",
       "groups": {
         "BrockenTime’s Piracy": "/proxy/api/imgur/chapter/uv0bf23"
@@ -151,7 +167,7 @@
     },
     "25": {
       "title": "An Unyielding Heart",
-      "volume": "6",
+      "volume": "3",
       "last_updated": "1683775570",
       "groups": {
         "BrockenTime’s Piracy": "/proxy/api/imgur/chapter/PnYlVsw"
@@ -211,6 +227,30 @@
       "last_updated": "1689787787",
       "groups": {
         "Taisen Scans": "/proxy/api/imgur/chapter/GaP55mT"
+      }
+    },
+    "33": {
+      "title": "Hikoboshi In Love",
+      "volume": "7",
+      "last_updated": "1697167018",
+      "groups": {
+        "Taisen Scans": "/proxy/api/imgur/chapter/SU2Fqdt"
+      }
+    },
+    "34": {
+      "title": "Flames of Love",
+      "volume": "7",
+      "last_updated": "1697167139",
+      "groups": {
+        "Taisen Scans": "/proxy/api/imgur/chapter/lCxgswg"
+      }
+    },
+    "35": {
+      "title": "The Hammer of the Witches",
+      "volume": "7",
+      "last_updated": "1697167276",
+      "groups": {
+        "Taisen Scans": "/proxy/api/imgur/chapter/bS4Ibvl"
       }
     }
   }
