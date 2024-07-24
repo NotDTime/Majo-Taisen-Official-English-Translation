@@ -308,6 +308,22 @@
       "groups": {
         "Taisen Scans": "/proxy/api/imgur/chapter/4fA0Uss"
       }
+    },
+    "42": {
+      "title": "Deduction",
+      "volume": "10",
+      "last_updated": "1721863760",
+      "groups": {
+        "Witch War Scans": "/proxy/api/imgur/chapter/lLB7hYH"
+      }
+    },
+    "43": {
+      "title": "Witch’s Gathering",
+      "volume": "10",
+      "last_updated": "1721863827",
+      "groups": {
+        "Witch War Scans": "/proxy/api/imgur/chapter/n9PEmIx"
+      }
     }
   }
 }
