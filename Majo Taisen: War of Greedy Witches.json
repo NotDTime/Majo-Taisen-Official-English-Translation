@@ -3,7 +3,7 @@
   "description": "32 Witches throughout the history fight in a deathmatch tournament so their desire will be granted",
   "artist": "Shiozuka Makoto",
   "author": "Kawamoto Homura",
-  "cover": "https://imgur.com/a/UdaKnGY",
+  "cover": "https://mangadex.org/covers/2b37189e-0bb2-4586-9757-b3fe6acd77b3/42401da9-7563-4d50-a455-f70ca2b427e7.jpg",
   "chapters": {
     "4": {
       "title": "Wings of Greed",
@@ -355,6 +355,14 @@
       "last_updated": "1731642753",
       "groups": {
         "Witch War Scans": "https://mangadex.org/chapter/1830d82d-4da4-4506-82ca-7d96168f8509/1"
+      }
+    },
+    "50": {
+      "title": "Cooperation ",
+      "volume": "11",
+      "last_updated": "1738633527",
+      "groups": {
+        "Witch War Scans": "/proxy/api/imgur/chapter/hBzSKRD"
       }
     }
   }
