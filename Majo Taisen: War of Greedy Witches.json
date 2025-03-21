@@ -5,12 +5,28 @@
   "author": "Kawamoto Homura",
   "cover": "https://mangadex.org/covers/2b37189e-0bb2-4586-9757-b3fe6acd77b3/42401da9-7563-4d50-a455-f70ca2b427e7.jpg",
   "chapters": {
+    "1": {
+      "title": "Walpurgis Night",
+      "volume": "1",
+      "last_updated": "1742589856",
+      "groups": {
+        "Pig Assault": "/proxy/api/imgur/chapter/GHXPHYi"
+      }
+    },
+    "3": {
+      "title": "Way of the World",
+      "volume": "1",
+      "last_updated": "1742589974",
+      "groups": {
+        "Witch War Scans": "/proxy/api/imgur/chapter/4vtVCIR"
+      }
+    },
     "4": {
       "title": "Wings of Greed",
-      "volume": "9",
+      "volume": "1",
       "last_updated": "1710377657",
       "groups": {
-        "Pig Assault": "/proxy/api/imgur/chapter/T4dzprn"
+        "Pig Assault": "https://imgur.com/a/4-wings-of-greed-6uASsgn"
       }
     },
     "5": {
@@ -18,7 +34,7 @@
       "volume": "2",
       "last_updated": "1697166825",
       "groups": {
-        "Pig Assault": "/proxy/api/imgur/chapter/A1jS6I1"
+        "Pig Assault": "/proxy/api/imgur/chapter/uG90X7n"
       }
     },
     "6": {
@@ -26,7 +42,7 @@
       "volume": "2",
       "last_updated": "1697166511",
       "groups": {
-        "Pig Assault": "/proxy/api/imgur/chapter/cGM4ZD2"
+        "Pig Assault": "/proxy/api/imgur/chapter/3Lm8IDN"
       }
     },
     "7": {
@@ -34,7 +50,7 @@
       "volume": "2",
       "last_updated": "1696214296",
       "groups": {
-        "Pig Assault": "/proxy/api/imgur/chapter/9OceT7W"
+        "Pig Assault": "/proxy/api/imgur/chapter/96PBRWJ"
       }
     },
     "8": {
@@ -42,7 +58,7 @@
       "volume": "2",
       "last_updated": "1690344673",
       "groups": {
-        "Pig Assault": "/proxy/api/imgur/chapter/hVeDje2"
+        "Pig Assault": "/proxy/api/imgur/chapter/3yRQJyL"
       }
     },
     "9": {
@@ -50,7 +66,7 @@
       "volume": "2",
       "last_updated": "1690344585",
       "groups": {
-        "Pig Assault": "/proxy/api/imgur/chapter/cGtDn0V"
+        "Pig Assault": "/proxy/api/imgur/chapter/O8acAVS"
       }
     },
     "10": {
@@ -58,7 +74,7 @@
       "volume": "3",
       "last_updated": "1686700740",
       "groups": {
-        "Pig Assault": "/proxy/api/imgur/chapter/A1OaCve"
+        "Pig Assault": "/proxy/api/imgur/chapter/T84vNxv"
       }
     },
     "11": {
@@ -66,7 +82,7 @@
       "volume": "3",
       "last_updated": "1684537146",
       "groups": {
-        "Pig assault": "/proxy/api/imgur/chapter/rLW8cxI"
+        "Pig assault": "/proxy/api/imgur/chapter/uhGnkRG"
       }
     },
     "12": {
@@ -74,7 +90,7 @@
       "volume": "3",
       "last_updated": "1684006696",
       "groups": {
-        "Pig Assault": "/proxy/api/imgur/chapter/hsUSSvm"
+        "Pig Assault": "/proxy/api/imgur/chapter/WpxYohN"
       }
     },
     "13": {
@@ -82,79 +98,79 @@
       "volume": "3",
       "last_updated": "1683330458",
       "groups": {
-        "BrockenTime’s Piracy": "/proxy/api/imgur/chapter/yEWjT3t"
+        "BrockenTime’s Piracy": "/proxy/api/imgur/chapter/aylFwIi"
       }
     },
     "14": {
       "title": "Worthy of Love",
-      "volume": "3",
+      "volume": "4",
       "last_updated": "1683075323",
       "groups": {
-        "BrockenTime’s Piracy": "/proxy/api/imgur/chapter/rtJgSuN"
+        "Pig Assault": "/proxy/api/imgur/chapter/sOte9yP"
       }
     },
     "15": {
       "title": "Loss",
-      "volume": "3",
+      "volume": "4",
       "last_updated": "1682785198",
       "groups": {
-        "BrockenTime’s Piracy": "/proxy/api/imgur/chapter/PeyHF26"
+        "Pig Assault": "/proxy/api/imgur/chapter/20ku1ZZ"
       }
     },
     "16": {
       "title": "True Love",
-      "volume": "3",
+      "volume": "4",
       "last_updated": "1682727346",
       "groups": {
-        "BrockenTime’s Piracy": "/proxy/api/imgur/chapter/NNwIbP7"
+        "Pig Assault": "/proxy/api/imgur/chapter/lITXMPG"
       }
     },
     "17": {
       "title": "Woman of the World",
-      "volume": "3",
+      "volume": "4",
       "last_updated": "1682520329",
       "groups": {
-        "BrockenTime’s Piracy": "/proxy/api/imgur/chapter/mwo9UWQ"
+        "Pig Assaul": "/proxy/api/imgur/chapter/qdVD3OL"
       }
     },
     "18": {
       "title": "Quiet",
-      "volume": "3",
+      "volume": "4",
       "last_updated": "1682516855",
       "groups": {
-        "BrockenTime’s Piracy": "/proxy/api/imgur/chapter/IPFXWrQ"
+        "Pig Assault": "/proxy/api/imgur/chapter/bevF5MK"
       }
     },
     "19": {
       "title": "A World of Their Own",
-      "volume": "3",
+      "volume": "5",
       "last_updated": "1682516727",
       "groups": {
-        "BrockenTime’s Piracy": "/proxy/api/imgur/chapter/BUj5wKW"
+        "BrockenTime’s Piracy": "/proxy/api/imgur/chapter/KxGoLl1"
       }
     },
     "20": {
       "title": "Noble Pride",
-      "volume": "3",
+      "volume": "5",
       "last_updated": "1682516392",
       "groups": {
-        "BrockenTime’s Piracy": "/proxy/api/imgur/chapter/inuyUVZ"
+        "BrockenTime’s Piracy": "/proxy/api/imgur/chapter/xIa0jdF"
       }
     },
     "21": {
       "title": "The Empress and the Queen",
-      "volume": "3",
+      "volume": "5",
       "last_updated": "1682516269",
       "groups": {
-        "BrockenTime’s Piracy": "/proxy/api/imgur/chapter/kNgm1ol"
+        "Pig Assault": "/proxy/api/imgur/chapter/97KWeWc"
       }
     },
     "22": {
       "title": "The Adapter",
-      "volume": "3",
+      "volume": "5",
       "last_updated": "1682516366",
       "groups": {
-        "BrockenTime’s Piracy": "/proxy/api/imgur/chapter/P7gmvYS"
+        "Pig assault": "/proxy/api/imgur/chapter/de0q4bY"
       }
     },
     "23": {
